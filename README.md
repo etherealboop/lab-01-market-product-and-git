@@ -13,8 +13,9 @@ In this lab, you will explore three things:
 
 You'll also practice using `Git` and `GitHub`. These tools are essential for:
 
-- collaboration between developers;
+- collaboration between developer(s);
 - incremental and iterative improvement of the code base.
+- heheheha.
 
 ## Table of contents
 
